@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @merttanriverdi
-Computer Education graduate learning software, AI & trading systems.
+Computer Education graduate learning software, AI, Web, Docker, CI/CD, C#, Unity...
